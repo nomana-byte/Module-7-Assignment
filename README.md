@@ -1,6 +1,7 @@
 # Python Code Refactoring Project
 
 ## Project Overview
+VIDEO: https://drive.google.com/file/d/1Zma8abfM9hdxV2oHy0BOAI7DvzRZ6oGw/view?usp=sharing
 
 This project demonstrates how to improve the readability, documentation, and maintainability of an existing Python script while preserving its original functionality.
 
@@ -12,9 +13,7 @@ This project demonstrates how to improve the readability, documentation, and mai
 - Includes docstrings for all functions.
 - Uses list comprehension and the `join()` method to simplify processing.
 
-## Requirements
 
-Python 3.11 or another compatible Python 3 version.
 
 ## How to Run
 
